@@ -1,0 +1,4 @@
+function testMe()
+{
+  return "test";
+ }
